@@ -50,7 +50,7 @@ Utiizou-se a placa BitDogLab (que possui o microcontrolador RP2040) para a exibi
 
 ## :camera: GIF mostrando o funcionamento do programa na placa BitDogLab
 <p align="center">
-  <img src=".images/trabalho01.gif" alt="GIF" width="526px" />
+  <img src="images/trabalho01.gif" alt="GIF" width="526px" />
 </p>
 
 ## :arrow_forward: Vídeo no youtube mostrando o funcionamento do programa na placa BitDogLab
